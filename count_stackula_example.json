@@ -1,0 +1,260 @@
+{
+  "visual_stack": [
+    {
+      "filename": "base_image.png",
+      "change_layer": "base_image.png",
+      "change_group": "01_BASE",
+      "opacity": 0,
+      "filePath": "01_BASE\\base_image.png",
+      "clickability": false
+    },
+    {
+      "filename": "01_NORMAL_WHALE.png",
+      "change_layer": "01_NORMAL_WHALE.png",
+      "change_group": "02_DOM_DENOM",
+      "opacity": 0,
+      "filePath": "02_DOM_DENOM\\01_NORMAL_WHALE.png",
+      "clickability": true
+    },
+    {
+      "filename": "02_NORMAL_ETH.png",
+      "change_layer": "02_NORMAL_ETH.png",
+      "change_group": "02_DOM_DENOM",
+      "opacity": 0,
+      "filePath": "02_DOM_DENOM\\02_NORMAL_ETH.png",
+      "clickability": true
+    },
+    {
+      "filename": "03_NORMAL_EURO.png",
+      "change_layer": "03_NORMAL_EURO.png",
+      "change_group": "02_DOM_DENOM",
+      "opacity": 0,
+      "filePath": "02_DOM_DENOM\\03_NORMAL_EURO.png",
+      "clickability": true
+    },
+    {
+      "filename": "04_NORMAL_BITCOIN.png",
+      "change_layer": "04_NORMAL_BITCOIN.png",
+      "change_group": "02_DOM_DENOM",
+      "opacity": 0,
+      "filePath": "02_DOM_DENOM\\04_NORMAL_BITCOIN.png",
+      "clickability": true
+    },
+    {
+      "filename": "05_NORMAL_DOLLAR.png",
+      "change_layer": "05_NORMAL_DOLLAR.png",
+      "change_group": "02_DOM_DENOM",
+      "opacity": 0,
+      "filePath": "02_DOM_DENOM\\05_NORMAL_DOLLAR.png",
+      "clickability": true
+    },
+    {
+      "filename": "01_NORMAL_GENTLE.png",
+      "change_layer": "01_NORMAL_GENTLE.png",
+      "change_group": "03_POWER",
+      "opacity": 0,
+      "filePath": "03_POWER\\01_NORMAL_GENTLE.png",
+      "clickability": true
+    },
+    {
+      "filename": "02_NORMAL_MEANS.png",
+      "change_layer": "02_NORMAL_MEANS.png",
+      "change_group": "03_POWER",
+      "opacity": 0,
+      "filePath": "03_POWER\\02_NORMAL_MEANS.png",
+      "clickability": true
+    },
+    {
+      "filename": "01_NORMAL_KNEELWITH.png",
+      "change_layer": "01_NORMAL_KNEELWITH.png",
+      "change_group": "04_STATE",
+      "opacity": 0,
+      "filePath": "04_STATE\\01_NORMAL_KNEELWITH.png",
+      "clickability": true
+    },
+    {
+      "filename": "02_NORMAL_NECKS.png",
+      "change_layer": "02_NORMAL_NECKS.png",
+      "change_group": "04_STATE",
+      "opacity": 0,
+      "filePath": "04_STATE\\02_NORMAL_NECKS.png",
+      "clickability": true
+    },
+    {
+      "filename": "01_NORMAL_SPIRIT.png",
+      "change_layer": "01_NORMAL_SPIRIT.png",
+      "change_group": "05_WINGS",
+      "opacity": 0,
+      "filePath": "05_WINGS\\01_NORMAL_SPIRIT.png",
+      "clickability": true
+    },
+    {
+      "filename": "02_NORMAL_LIGHT.png",
+      "change_layer": "02_NORMAL_LIGHT.png",
+      "change_group": "05_WINGS",
+      "opacity": 0,
+      "filePath": "05_WINGS\\02_NORMAL_LIGHT.png",
+      "clickability": true
+    },
+    {
+      "filename": "03_NORMAL_SCIENCE.png",
+      "change_layer": "03_NORMAL_SCIENCE.png",
+      "change_group": "05_WINGS",
+      "opacity": 0,
+      "filePath": "05_WINGS\\03_NORMAL_SCIENCE.png",
+      "clickability": true
+    },
+    {
+      "filename": "04_NORMAL_HEART.png",
+      "change_layer": "04_NORMAL_HEART.png",
+      "change_group": "05_WINGS",
+      "opacity": 0,
+      "filePath": "05_WINGS\\04_NORMAL_HEART.png",
+      "clickability": true
+    },
+    {
+      "filename": "01_NORMAL_VEILED.png",
+      "change_layer": "01_NORMAL_VEILED.png",
+      "change_group": "06_PRUDENCE",
+      "opacity": 0,
+      "filePath": "06_PRUDENCE\\01_NORMAL_VEILED.png",
+      "clickability": true
+    },
+    {
+      "filename": "02_NORMAL_WEEPS.png",
+      "change_layer": "02_NORMAL_WEEPS.png",
+      "change_group": "06_PRUDENCE",
+      "opacity": 0,
+      "filePath": "06_PRUDENCE\\02_NORMAL_WEEPS.png",
+      "clickability": true
+    },
+    {
+      "filename": "01_NORMAL_CROSS.png",
+      "change_layer": "01_NORMAL_CROSS.png",
+      "change_group": "07_BLING",
+      "opacity": 0,
+      "filePath": "07_BLING\\01_NORMAL_CROSS.png",
+      "clickability": true
+    },
+    {
+      "filename": "02_NORMAL_PENTAGRAM.png",
+      "change_layer": "02_NORMAL_PENTAGRAM.png",
+      "change_group": "07_BLING",
+      "opacity": 0,
+      "filePath": "07_BLING\\02_NORMAL_PENTAGRAM.png",
+      "clickability": true
+    },
+    {
+      "filename": "03_NORMAL_STAR.png",
+      "change_layer": "03_NORMAL_STAR.png",
+      "change_group": "07_BLING",
+      "opacity": 0,
+      "filePath": "07_BLING\\03_NORMAL_STAR.png",
+      "clickability": true
+    },
+    {
+      "filename": "01_NORMAL_ENDANGERED.png",
+      "change_layer": "01_NORMAL_ENDANGERED.png",
+      "change_group": "08_DARWIN",
+      "opacity": 0,
+      "filePath": "08_DARWIN\\01_NORMAL_ENDANGERED.png",
+      "clickability": true
+    },
+    {
+      "filename": "02_NORMAL_EXTINCT.png",
+      "change_layer": "02_NORMAL_EXTINCT.png",
+      "change_group": "08_DARWIN",
+      "opacity": 0,
+      "filePath": "08_DARWIN\\02_NORMAL_EXTINCT.png",
+      "clickability": true
+    },
+    {
+      "filename": "01_NORMAL_DECAP.png",
+      "change_layer": "01_NORMAL_DECAP.png",
+      "change_group": "09_JUSTICE",
+      "opacity": 0,
+      "filePath": "09_JUSTICE\\01_NORMAL_DECAP.png",
+      "clickability": true
+    },
+    {
+      "filename": "02_NORMAL_LADY.png",
+      "change_layer": "02_NORMAL_LADY.png",
+      "change_group": "09_JUSTICE",
+      "opacity": 0,
+      "filePath": "09_JUSTICE\\02_NORMAL_LADY.png",
+      "clickability": true
+    },
+    {
+      "filename": "01_NORMAL_MUSK.png",
+      "change_layer": "01_NORMAL_MUSK.png",
+      "change_group": "10_LODESTAR",
+      "opacity": 0,
+      "filePath": "10_LODESTAR\\01_NORMAL_MUSK.png",
+      "clickability": true
+    },
+    {
+      "filename": "02_NORMAL_BEZZY.png",
+      "change_layer": "02_NORMAL_BEZZY.png",
+      "change_group": "10_LODESTAR",
+      "opacity": 0,
+      "filePath": "10_LODESTAR\\02_NORMAL_BEZZY.png",
+      "clickability": true
+    },
+    {
+      "filename": "03_NORMAL_BERNIE.png",
+      "change_layer": "03_NORMAL_BERNIE.png",
+      "change_group": "10_LODESTAR",
+      "opacity": 0,
+      "filePath": "10_LODESTAR\\03_NORMAL_BERNIE.png",
+      "clickability": true
+    },
+    {
+      "filename": "04_NORMAL_BUFFY.png",
+      "change_layer": "04_NORMAL_BUFFY.png",
+      "change_group": "10_LODESTAR",
+      "opacity": 0,
+      "filePath": "10_LODESTAR\\04_NORMAL_BUFFY.png",
+      "clickability": true
+    },
+    {
+      "filename": "05_NORMAL_GATESY.png",
+      "change_layer": "05_NORMAL_GATESY.png",
+      "change_group": "10_LODESTAR",
+      "opacity": 0,
+      "filePath": "10_LODESTAR\\05_NORMAL_GATESY.png",
+      "clickability": true
+    },
+    {
+      "filename": "01_NORMAL_DIEGO.png",
+      "change_layer": "01_NORMAL_DIEGO.png",
+      "change_group": "11_CONTROLLERS",
+      "opacity": 0,
+      "filePath": "11_CONTROLLERS\\01_NORMAL_DIEGO.png",
+      "clickability": true
+    },
+    {
+      "filename": "02_NORMAL_TAYLOR.png",
+      "change_layer": "02_NORMAL_TAYLOR.png",
+      "change_group": "11_CONTROLLERS",
+      "opacity": 0,
+      "filePath": "11_CONTROLLERS\\02_NORMAL_TAYLOR.png",
+      "clickability": true
+    },
+    {
+      "filename": "03_NORMAL_SATOSHI.png",
+      "change_layer": "03_NORMAL_SATOSHI.png",
+      "change_group": "11_CONTROLLERS",
+      "opacity": 0,
+      "filePath": "11_CONTROLLERS\\03_NORMAL_SATOSHI.png",
+      "clickability": true
+    },
+    {
+      "filename": "01_NORMAL_TOP.png",
+      "change_layer": "01_NORMAL_TOP.png",
+      "change_group": "12_TOP",
+      "opacity": 0,
+      "filePath": "12_TOP\\01_NORMAL_TOP.png",
+      "clickability": false
+    }
+  ]
+}
