@@ -14,7 +14,10 @@ If you are one of the artists who hosted work at Async.art, you can take your or
 
 ## Background
 
-![Flying Kick](./FLYING%20KICK2.png)
+
+<div align="center">
+  <img src="./FLYING%20KICK2.png" alt="Flying Kick" width="50%">
+</div>
  
 The global cryptoartist network became real for me when I met Alotta Money through Async Art.
 
