@@ -15,9 +15,6 @@ If you are one of the artists who hosted work at Async.art, you can take your or
 
 ## Background
 
-<center>    
-![FLYING TIGER KICK R](https://github.com/user-attachments/assets/c521f92f-9b1b-46d1-895f-9db29f164838 =50%x)
-</center>
  
 The global cryptoartist network became real for me when I met Alotta Money through Async Art.
 
