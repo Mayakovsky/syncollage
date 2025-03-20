@@ -158,6 +158,9 @@ To run Syncollage locally, you need to have Node.js and npm (or a similar Node.j
     * Click on the visible, non-transparent areas of image groups that contain multiple layers. This will cycle through the different layers within that group.
     * Groups with a single image will be static and non-clickable.
 
+6.  **Hosting Your Collage:**
+    * As long as imageStack is in the same directory as your `Syncollage.html`file, you can host your collage on any web server or platform that supports static file hosting.
+
 ## Contributing
 
 We welcome contributions to Syncollage! If you'd like to contribute, please follow these steps:
@@ -173,6 +176,4 @@ We welcome contributions to Syncollage! If you'd like to contribute, please foll
 * Hidden Forces
 * Conlan
 
-
 Copyright (c) 2025 Hidden Forces
-
