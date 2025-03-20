@@ -1,8 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const imageStackPath = path.join(process.env.USERPROFILE, 'Documents', 'Collager', 'imageStack');
-const countStackulaPath = path.join(process.env.USERPROFILE, 'Documents', 'Collager', 'count_stackula.json');
+const imageStackPath = path.join('imageStack'); // Relative path
+const countStackulaPath = path.join('count_stackula.json'); // Relative path
 
 fs.readdir(imageStackPath, { withFileTypes: true }, (err, files) => {
     if (err) {
@@ -27,16 +27,16 @@ fs.readdir(imageStackPath, { withFileTypes: true }, (err, files) => {
             }
 
             const pngFiles = imageFiles.filter(file => path.extname(file).toLowerCase() === '.png');
-            const clickability = pngFiles.length > 1; // Set clickability based on group size
+            const clickability = pngFiles.length > 1;
 
             pngFiles.forEach(filename => {
                 visualStack.push({
                     filename: filename,
                     change_layer: filename,
                     change_group: groupName,
-                    opacity: 0, // Opacity will be set in script.js
+                    opacity: 0,
                     filePath: path.join(groupName, filename),
-                    clickability: clickability, // Add clickability
+                    clickability: clickability,
                 });
             });
 
