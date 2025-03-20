@@ -8,6 +8,7 @@ If you are one of the artists who hosted work at Async.art, you can take your or
 - [Background](#background)
 - [Application](#application)
 - [Features](#features)
+- [Example](#example)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -45,6 +46,11 @@ Syncollage is a lightweight interactive display solution powered by standard bro
 - Separate script scans image folder/filenames to generate a visual stack array
 - Randomized initial state
 - Serve images from a Node server to overcome CORS while testing
+
+
+## Example
+
+Interactive Example located here:  https://hiddenforces.net/Syncollage.html
  
 
 ## Installation
