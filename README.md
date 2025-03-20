@@ -50,7 +50,7 @@ Syncollage is a lightweight interactive display solution powered by standard bro
 
 ## Example
 
-![Interactive Example located here]{:target="_blank"}
+[Interactive Example located here](https://hiddenforces.net/Syncollage.html)
  
 
 ## Installation
