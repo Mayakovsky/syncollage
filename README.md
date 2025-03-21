@@ -180,7 +180,7 @@ We welcome contributions to Syncollage! If you'd like to contribute, please foll
 **Contributors:**
 
 * Hidden Forces
-* Conlan
+* honorary contributor - Conlan, Async founder
 
 Copyright (c) 2025 Hidden Forces
 
