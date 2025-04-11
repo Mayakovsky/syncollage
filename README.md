@@ -80,6 +80,7 @@ To run Syncollage locally, you need to have Node.js and npm (or a similar Node.j
     
     * Place the PNG image layers for each `change_group` inside their respective subfolders. Ensure that images intended to be part of an interactive group have more than one layer. Single-image groups will be treated as static.
     * The names of the image files within each group will determine their order for cycling.
+    * THe name of the background image needs to be base_image.png in order for the code to function properly.
 
 2.  **Generate `count_stackula.json`:**
     * Navigate to your Syncollage project directory in PowerShell.
